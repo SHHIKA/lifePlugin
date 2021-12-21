@@ -1,0 +1,10 @@
+name: LifePlugin
+version: '${project.version}'
+main: server.LifePlugin.Main
+api-version: 1.17
+
+commands:
+  home:
+    description: make a home
+  mcpay:
+    description: mcpay command
